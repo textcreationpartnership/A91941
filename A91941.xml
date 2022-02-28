@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Collonel Malcomb Rogers (agent for the King of Scots) at the same place of execution at Edenborough in Scotland, where the Earl of Montross lost his life, for his raising of forces against the English, in the name and defence of his masters prerogatives.  With the manner of his tryal before the officers of the army; the articles and charge, read, and exhibited against him by the judge advocate, the fatal sentence pronounced at the bar of justice; and a narrative of the transactions of the whole business.</title>
+            <author>Rogers, Malcolm, Collonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91941</idno>
+            <idno type="STC">Wing R1820</idno>
+            <idno type="STC">Thomason E735_6</idno>
+            <idno type="STC">ESTC R206960</idno>
+            <idno type="EEBO-CITATION">99866041</idno>
+            <idno type="PROQUEST">99866041</idno>
+            <idno type="VID">166907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166907)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E735[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Collonel Malcomb Rogers (agent for the King of Scots) at the same place of execution at Edenborough in Scotland, where the Earl of Montross lost his life, for his raising of forces against the English, in the name and defence of his masters prerogatives.  With the manner of his tryal before the officers of the army; the articles and charge, read, and exhibited against him by the judge advocate, the fatal sentence pronounced at the bar of justice; and a narrative of the transactions of the whole business.</title>
+                  <author>Rogers, Malcolm, Collonel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 10th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, Malcolm, --  Collonel --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166907:1" rendition="simple:additions"/>
+            <p>THE SPEECH Of Collonel MALCOMB ROGERS (Agent for the King of Scots) At the ſame place of Execution at Edenbo<g ref="char:EOLhyphen"/>rough in Scotland, where the Earl of Montroſs loſt his life, for his raiſing of Forces againſt the Engliſh, in the Name and Defence of his Maſters Prerogatives.</p>
+            <p>With the manner of his Tryal before the Of<g ref="char:EOLhyphen"/>ficers of the Army; the Articles and Charge, read, and exhibited againſt him by the Judge Advocate, the fatal Sentence pronounced at the Bar of Juſtice; and a Narrative of the Tranſa<g ref="char:EOLhyphen"/>ctions of the whole Buſineſs.</p>
+            <p>LONDON: Printed for GEORGE HORTON, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:166907:2"/>
+            <pb n="3" facs="tcp:166907:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the 25 of April, 1654. a general Court Marſhal was held within within this City, where were pre<g ref="char:EOLhyphen"/>ſent the Deputy Governour of Lieth, and divers Officers of the Army; before whom was brought the grand Agent of the King of Scots, viz. Col. Rogers, who was taken going to Middleton with new Commiſſi<g ref="char:EOLhyphen"/>ons and Inſtructions from his Maſter, in<g ref="char:EOLhyphen"/>citing them to proſecute the War vigo<g ref="char:EOLhyphen"/>rouſly, and to admit of all poffible encou<g ref="char:EOLhyphen"/>ragment towards thoſe Engliſh that ſhould come in to their aſſiſtance, &amp;c. And being
+<pb n="4" facs="tcp:166907:3"/>brought to the Bar of Juſtice, the Judge Advocate cauſed to be read the Articles of War, wherein the reſpective Agents and Spies were compriſed, which is death with<g ref="char:EOLhyphen"/>out mercy; and ſo accordingly they pro<g ref="char:EOLhyphen"/>ceeded to Sentence, which was, That he ſhould be hanged upon a Gollowes by the Neck til he was dead, at the place of Exe<g ref="char:EOLhyphen"/>cution where Montroſs ſuffer'd; And thereupon ordered, That he ſhould be re<g ref="char:EOLhyphen"/>manded back to the place from whence he came; and thence, to the place of executi<g ref="char:EOLhyphen"/>on on the morrow, between 10 and 11 of the clock in the forenoon: In purſuance whereof, about the time appointed, he was conducted to the place of termination, where a very high Gibbet was erected, much like unto that which the ſaid Earl of Montroſs took his laſt good night on: And coming neer it, he looked up, and ſaid,
+<pb n="5" facs="tcp:166907:3"/>Gods wil be done, my Saviour was cruci<g ref="char:EOLhyphen"/>fied on a Croſs, and ſhal not I with pati<g ref="char:EOLhyphen"/>ence here finiſh my courſe; yea, certainly, and by divine Aſſiſtance, was this dreadful Object as high again, it ſhould not in the leaſt, I hope, aſtoniſh me: For, truly Gen<g ref="char:EOLhyphen"/>tlemen, that which bears up my heart now, is, that there is but few ſteps between me and Heaven; and that upon giving the fa<g ref="char:EOLhyphen"/>tal Turn, I ſhal aſcend to a glorious Throne: Bleſſed be God, that hath given me this aſſurance, that I am now ſailing to<g ref="char:EOLhyphen"/>wards the Ocean of Eternity; through a rough paſſage to my Haven of Reſt; and through the Red ſea to the promiſed Land. This day am I making a double ex<g ref="char:EOLhyphen"/>change, a Guard of Souldiers, for a Guard of Angels, to carry my ſoul into bleſſed Abrahams boſom. For I proteſt here in the preſence of the Almighty Jehovah, and as
+<pb n="6" facs="tcp:166907:4"/>a dying man, I do not bring a revengeful heart to the Ladder, but am free from ran<g ref="char:EOLhyphen"/>cour and malice, but deſire God to forgive them, that vvould not forgive me.</p>
+            <p>And although they have paſſed the fatal Sen<g ref="char:EOLhyphen"/>tence of bringing me to ſo untimely and igno<g ref="char:EOLhyphen"/>minious an end; yet the juſtneſs of my cauſe takes a way the ſting of Death, and beautifies the end of my life; for truly, I was never culpable or perfidi<g ref="char:EOLhyphen"/>ous to my Maſter the King (putting off his Hat) in any thing; but alwayes rather choſe to expoſe my ſe f to the greateſt of difficulties, then (in the leaſt) to hazard the propagating of ſo great an in<g ref="char:EOLhyphen"/>tereſt; for, indeed, had I as many lives, as hairs upon my head, I ſhould freely ſubmit and lay them down in the Royal Quarrel.</p>
+            <p>But being interrupted, and not permitted to pro<g ref="char:EOLhyphen"/>ceed upon ſuch Circumſtances, he uttered theſe ex<g ref="char:EOLhyphen"/>preſſions: Well! Gentlemen, I ſee men hunger af<g ref="char:EOLhyphen"/>ter my fleſh, and thirſt after my blood, which will be a means (I hope) to heighten my happineſs: And as I muſt now draw to an end of my life: ſo ſhall I now come to an end of my Speech; but be<g ref="char:EOLhyphen"/>fore I expire my laſt breath, give me leave to; juſti<g ref="char:EOLhyphen"/>fie
+<pb n="7" facs="tcp:166907:4"/>God, and condemn my ſelf; for God is righte<g ref="char:EOLhyphen"/>ous, though I have ſinned: God is juſt, though I have been wicked; And his great mercy is it, that my Captivity was not made a Hell, and this place of execution the bottomleſs pit: To him alone be aſcribed all Glory; for I cannot onely juſtifie his divine Majeſty; but alſo magnifie the riches of his grace towards me.</p>
+            <p>I have done, having no more to ſay, but to de<g ref="char:EOLhyphen"/>ſire the help of your prayers, that God would be pleaſed to give me continual ſupplies of Divine Grace, to carry me through this Vail of Death, that ſo I may put off this body with as much comfort of mind, as ever my Cloaths to go to reſt: I ſhall now draw to a final period, and conclude with that ſpeech of the Apoſtle, I am ready to be offered, and the time of my departure is at hand, I have fought a good fight, I have finiſhed my courſe, I have kept the faith, henceforth there is laid up for me a Crown of Righteouſneſs; which the Lord Jehovan, the righteous Judge of Heaven, ſhall give me at that day; and not to me onely, but unto them alſo that love his appearing: through whoſe bloud, when breath is out of my noſtrils, I expect remiſſi<g ref="char:EOLhyphen"/>on of all my ſins; and ſo the Lord bleſs all thoſe that fights his battel.</p>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:166907:5"/>
+            <head>The PRAYER.</head>
+            <p>MOſt eternal and glorious Lord God, I thy poor and unworthy Creature, do here pro<g ref="char:EOLhyphen"/>ſtrate my ſelf before thy ſacred Majeſty, beſeech<g ref="char:EOLhyphen"/>ing thee through the merits of Jeſus Chriſt, my bleſſed Saviour and Redeemer, to have mercy on me; and dea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Father I humbly beſeech thee, that thou wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be pleaſed to ſtrengthen me with thy bleſſed Spirit in this great Work, in ſailing towards the Ocean of Eternity, to my Haven of reſt; and ſo Lord Jeſus into thy hands, I give and recommend my ſoul.</p>
+            <p>After which, they ſung a Pſalm; and then im<g ref="char:EOLhyphen"/>mediatly after going up the Ladder, the Executio<g ref="char:EOLhyphen"/>ner did his office.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
